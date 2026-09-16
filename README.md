@@ -1,7 +1,14 @@
 # AgendaSport
 
-##Usuários
+# Repositório Do AgendaSport
 
-1. LucasP
-2. Djouquin
-3. Legal
+## Usuários
+
+1. João Lucas Dutra
+2. Lucas Pouey
+3. Rafael Djouquin
+4. Helaman Brollo
+5. Tese
+6. LucasP
+7. Djouquin
+8. Legal
