@@ -8,12 +8,12 @@ O projeto conta com uma aplicação **Web**, um **aplicativo Mobile** e uma **AP
 
 ## 👥 Equipe
 
-| Integrante       |
-| ---------------- |
-| João Lucas Dutra |
-| Lucas Pouey      |
-| Rafael Djouquin  |
-| Helaman Brollo   |
+| Integrante       | Integrante   |
+| ---------------- | ------------ |
+| João Lucas Dutra | Registrador  |
+| Lucas Pouey      | Scrum Master |
+| Rafael Djouquin  |      PO      |
+| Helaman Brollo   |   Guardião   |
 
 ---
 
