@@ -42,7 +42,7 @@ O **Agenda Sport** tem como objetivo facilitar o aluguel de quadras esportivas, 
 * 📆 Realizem reservas;
 * 🔔 Recebam notificações sobre suas reservas.
 
-Para os administradores, o sistema permitirá gerenciar **quadras, horários, reservas, dias de funcionamento e informações do estabelecimento**.
+Para os administradores, o sistema permitirá gerenciar **quadras, horários, reservas, dias de funcionamento, informações e equipamentos do estabelecimento**.
 
 ---
 
