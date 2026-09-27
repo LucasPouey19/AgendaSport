@@ -30,7 +30,7 @@
 | Aplicativo Mobile | G | 24h |
 | Notificações com FCM | M | 16h |
 | **TOTAL** | | **184h** |
-<!-- exemplo de alteração-->
+
 ### Conversão para semanas e meses
 
 - **Horas:** 184h
